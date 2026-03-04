@@ -1,11 +1,5 @@
 Projeto Integrador – Sistema de Agendamento para Barbearia
 
-Integrantes:
-45868999 - Daniel Paulo De Oliveira Almeida Filho
-45847061 - Eduardo Ramalho Teixeira
-45616680 - Renan de Araujo Venturini Silva
-46590854 - Robson Windson Dantas de Almeida
-
 Este projeto tem como objetivo desenvolver uma plataforma digital de agendamento para barbearias, permitindo que clientes realizem marcações de forma prática, rápida e organizada.
 
 O sistema possibilita que o cliente escolha o barbeiro, selecione o serviço desejado (corte, barba, combo, etc.), visualize horários disponíveis e confirme o agendamento online.
